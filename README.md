@@ -13,7 +13,6 @@ React + Vite + Typescript
 Firebaseをバックエンドに採用
 ルーティングは @tanstack/react-location を使用
 
-
 # Requirement
 
 <!-- "WeMedic"を動かすのに必要なライブラリなどを列挙する -->
